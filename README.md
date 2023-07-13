@@ -29,6 +29,15 @@
 </div>
 
 ###
+<br clear="both">
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+###
 <h2 align="left">💫 About Me</h2>
 
 ###
@@ -99,15 +108,15 @@
 
 ###
 
-<p align="left">✨ Apple IMac 24" <br><br>- Écran Retina 4,5K<br>- CPU 8 coeurs<br>- GPU 8coeurs<br>- 16 Go de mémoire unifiée<br>- Neural Engine 16 cœurs</p>
+<p align="left">✨ Apple IMac 24" <br><br>🔹 Écran Retina 4,5K<br>🔹 CPU 8 coeurs<br>🔹 GPU 8coeurs<br>🔹 16 Go de mémoire unifiée<br>🔹 Neural Engine 16 cœurs</p>
 
 ###
 
-<p align="left">✨ ASUS TUF Gaming F15<br><br>- 15,6 pouces, FHD 144Hz<br>- Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)<br>- NVIDIA® GeForce RTX™ 3060 Laptop GPU, Up to 1630MHz at 90W (95W with Dynamic Boost), 6 Go GDDR6<br>- 8Go DDR4-3200 SO-DIMM x 2</p>
+<p align="left">✨ ASUS TUF Gaming F15<br><br>🔹 15,6 pouces, FHD 144Hz<br>🔹 Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)<br>🔹 NVIDIA® GeForce RTX™ 3060 Laptop GPU, Up to 1630MHz at 90W (95W with Dynamic Boost), 6 Go GDDR6<br>🔹 8Go DDR4-3200 SO-DIMM x 2</p>
 
 ###
 
-<p align="left">✨ Autre Matériel utlile pour développement responsive :<br><br>- Apple Ipad Air<br>- Iphone 13</p>
+<p align="left">✨ Autre Matériel utlile pour développement responsive :<br><br>🔹 Apple Ipad Air<br>🔹 Iphone 13</p>
 
 ###
 <br>
