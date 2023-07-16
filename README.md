@@ -129,11 +129,11 @@
 
 ###
 
-<p align="left">✨ Apple IMac 24" M1 <br><br>🔹MacOS Ventura 13.4.1 (c) <br>🔹 Écran Retina 4,5K<br>🔹 CPU 8 coeurs<br>🔹 GPU 8coeurs<br>🔹 16 Go de mémoire unifiée<br>🔹 Neural Engine 16 cœurs</p>
+<p align="left">✨ Apple IMac 24" M1 <br><br>⭐️ MacOS Ventura 13.4.1 (c) <br><br>🔹 Écran Retina 4,5K<br>🔹 CPU 8 coeurs<br>🔹 GPU 8coeurs<br>🔹 16 Go de mémoire unifiée<br>🔹 Neural Engine 16 cœurs</p>
 
 ###
 
-<p align="left">✨ ASUS TUF Gaming F15<br><br>🔹Ubuntu 22.04.2 LTS (Jammy Jellyfish)<br>🔹Windowd 11 10.0.23435.1000<br>🔹 15,6 pouces, FHD 144Hz<br>🔹 Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)<br>🔹 NVIDIA® GeForce RTX™ 3060 Laptop GPU, Up to 1630MHz at 90W (95W with Dynamic Boost), 6 Go GDDR6<br>🔹 8Go DDR4-3200 SO-DIMM x 2</p>
+<p align="left">✨ ASUS TUF Gaming F15<br><br>⭐️ Ubuntu 22.04.2 LTS (Jammy Jellyfish)<br>⭐️Windowd 11 10.0.23435.1000<br><br>🔹 15,6 pouces, FHD 144Hz<br>🔹 Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)<br>🔹 NVIDIA® GeForce RTX™ 3060 Laptop GPU, Up to 1630MHz at 90W (95W with Dynamic Boost), 6 Go GDDR6<br>🔹 8Go DDR4-3200 SO-DIMM x 2</p>
 
 ###
 
