@@ -32,7 +32,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Matthieu-Vachet/Matthieu-Vachet/main/IMG_1578.png"/>
+  <img height="350" src="https://raw.githubusercontent.com/Matthieu-Vachet/Matthieu-Vachet/main/IMG_1578.png"/>
 </div>
 
 <div align="center">
