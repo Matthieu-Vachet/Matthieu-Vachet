@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-<a href="https://app.daily.dev/matthieuvachet"><img src="https://api.daily.dev/devcards/cfd27052b0c04ea7974de8aaa11147e9.png?r=413" width="400" alt="Matthieu Vachet's Dev Card"/></a>
+ <a href="https://app.daily.dev/matthieuvachet"><img src="https://github.com/Matthieu-Vachet/Matthieu-Vachet/blob/master/devcard.svg" width="400" alt="Matthieu Vachet's Dev Card"/></a>
  </div>
 
 ###
