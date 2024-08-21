@@ -1,5 +1,3 @@
-
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/66c6433d003ddc839bc1/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
 <h1 align="center">Bonjour 👋! Moi c'est Matthieu, je suis Dev React / Next.JS Indépendant<br>✨Spécialisation Landing Page✨</h1>
 
 ###
@@ -27,6 +25,14 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Matthieu-Vachet/count.svg?"  />
 </div>
 
 ###
